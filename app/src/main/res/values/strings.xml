@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WakeMeUp</string>
+    <string name="alarm">Alarm</string>
+    <string name="reminder">Reminder</string>
+    <string name="todo">Todo</string>
+    <string name="delete">Delete</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+</resources>

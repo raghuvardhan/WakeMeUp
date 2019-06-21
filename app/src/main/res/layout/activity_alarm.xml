@@ -15,9 +15,8 @@
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/alarm_time_btn"/>
+        android:id="@+id/alarm_time_btn"
+        style="@style/Button" />
 
 
     <Switch
@@ -28,10 +27,9 @@
         android:id="@+id/repeat_alarm_switch"/>
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:id="@+id/save_alarm_button"
-        android:text="save"/>
+        android:text="save"
+        style="@style/Button" />
 
 
 
